@@ -1,16 +1,16 @@
 
-# Footfall Heatmap
+# Car Density Visualizer
 
-Welcome to the Footfall Heatmap Generator, a tool designed to visualize and analyze foot traffic patterns with ease. This comprehensive solution transforms raw data into interactive and visually appealing heatmaps, providing valuable insights for businesses, event organizers, and urban planners
+Welcome to the Car Density Visualizer, a tool designed to visualize and analyze Car traffic patterns with ease. This comprehensive solution transforms raw data into interactive and visually appealing heatmaps, providing valuable insights for businesses, event organizers, and urban planners
 
 # Features
-Effortless Integration: Seamlessly integrate our Footfall Heatmap Generator into your existing workflow, allowing you to process and visualize foot traffic data effortlessly.
+Effortless Integration: Seamlessly integrate our Car Density Visualizer into your existing workflow, allowing you to process and visualize Car traffic data effortlessly.
 
-Customizable Visualizations: Tailor the appearance of your heatmaps to suit your specific needs. Adjust color schemes, intensity gradients, and overlays to create stunning visual representations of footfall patterns.
+Customizable Visualizations: Tailor the appearance of your heatmaps to suit your specific needs. Adjust color schemes, intensity gradients, and overlays to create stunning visual representations of Car patterns.
 
-Real-time Analytics: Stay informed with real-time analytics, enabling you to make data-driven decisions promptly. Monitor changes in foot traffic dynamically and adapt strategies accordingly.
+Real-time Analytics: Stay informed with real-time analytics, enabling you to make data-driven decisions promptly. Monitor changes in Car traffic dynamically and adapt strategies accordingly.
 
-Scalability: Whether you're working with a small business space or a large event venue, our Footfall Heatmap Generator is designed to scale according to your needs, providing accurate and detailed visualizations for areas of any size.
+Scalability: Whether you're working with a small business space or a large event venue, our Car Density Visualizer is designed to scale according to your needs, providing accurate and detailed visualizations for areas of any size.
 
 ## Tech Stack
 
@@ -52,7 +52,7 @@ Scalability: Whether you're working with a small business space or a large event
 1.Clone repository 
 
 ```bash
-    git clone https://github.com/pramodsarvi/footfall-heatmap.git && cd footfall-heatmap
+    git clone git@github.com:ANANTHAN-VM/Car-density-visualizater.git
 ```
 
 2.Build 
@@ -62,7 +62,7 @@ Scalability: Whether you're working with a small business space or a large event
 
 3.Run
 ```bash
-    ./footfall file://<path to any video file.mp4>
+    ./Car file://<path to any video file.mp4>
 ```
 
-Please find the demo link [here](https://www.youtube.com/watch?v=v_t77qS9gbs&t=5s)
+Please find the demo link [here](https://youtu.be/ObMPh8CjfbE)
